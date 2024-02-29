@@ -11,5 +11,5 @@ I've been learning about algorithms and data structures through Colt Steele's co
 In this repository, you'll find the following files:
 
 - [Algorithms](./algorithms): Contains JavaScript implementations of various algorithms covered in the course.
-- [Data Structures](./datastructures): Includes JavaScript implementations of fundamental data structures as taught by Colt Steele.
+- [Data Structures](./dataStructures): Includes JavaScript implementations of fundamental data structures as taught by Colt Steele.
 
